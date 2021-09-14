@@ -1,4 +1,4 @@
 fun main(){
   println("Hello World")
-  println("welcome to kotlin")
+  println("Welcome to Kotlin")
 }
